@@ -1,6 +1,6 @@
 # MOX3600
 
-This folder includes the full core models of MOX3600 with the EOEC fuel composition. The model is generally based upon the public domain and the OECD Nuclear Energy Agency benchmark::
+This folder includes the full core models of MOX3600 with the EOEC fuel composition. The model is generally based upon the public domain and the OECD Nuclear Energy Agency benchmark:
 
 > NEA, 2015. Benchmark for Neutronic Analysis of Sodium-cooled Fast Reactor Cores with Various Fuel Types and Core Sizes (No. NEA/NSC/R(2015)9). OECD Publishing, Paris.
 
